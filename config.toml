@@ -1,0 +1,7 @@
+baseURL = "http://carlosbuil.com/"
+languageCode = "en-us"
+author = "Carlos"
+title = "Carlos website"
+baseurl = "/"
+
+theme = "hugo-minimalist-spa"
