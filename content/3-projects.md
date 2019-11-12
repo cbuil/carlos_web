@@ -10,10 +10,17 @@ title: Projects
 
  - **Fondecyt Postdoctorado**: in this project I tried to put some light over the use of SPARQL endpoints by using the query logs users submitted to these databases.
 
-I have also participated as research engineer or researcher in several EU-FP7 projects such as ADMIRE (1M euro during 3 years), NeOn (9M euro during 4 years) or Ontogrid (1M euro during 3 years).
+ - **EU Project ADMIRE** (FP7-215024 3.001.662,00 euro ) project. The goals of this project were to easy the end user to access data intensive for data mining. The output was a user toolkit that eased the access to large amounts of data by these users. I have been in charge of the semantic software registry of the Project and of the ontologies for defining the data types of the system's architecture. 
+
+ - **EU Project NeOn** (IST-2005-027595, 14.700.000 euro). Main developer and analyst of the pharmaceutical use case. The goal of this use case was to solve the heterogeneity problem between invoices from coming different partners. The mains tasks were the analysis of the system requirements, the design of the system architecture, pharmaceutical ontology modeling and the development the initial prototype.
+
+ - **EU Project OntoGrid** (FP6-511513 2.638.940,00 euro). In charge of the development of the project's semantic annotation component  and the integration of this component with the other components in  the system.
+
+ - Development of a **semantic search engine for Vodafone R&D**. In charge of the data acquisition task and development of the search engine [Web portal](http://www.w3.org/2001/sw/sweo/public/UseCases/Vodafone-es/).
+
 
 ## Student projects
- - RDFExplorer
- - Dockerpedia
- - Camilo Streaming
- - Privacy
+
+ - [RDFExplorer (wikidata)](https://www.rdfexplorer.org/) and [DBpedia](https://dbpedia.rdfexplorer.org/) 
+
+ - [Dockerpedia](https://dockerpedia.inf.utfsm.cl)
