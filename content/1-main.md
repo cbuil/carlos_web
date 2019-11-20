@@ -9,7 +9,7 @@ This is my academic home page. Currently I'm an Assistant Professor at  [Departa
 
 Originally I'm from Spain, and I came to Chile during 2010 to work with Marcelo Arenas during my PhD at [Ontology Engineering Group](http://www.oeg-upm.net/). My PhD supervisor was Óscar Corcho, and I will always be grateful for all the support he gave me, and everything I learnt during that period. By the end of 2018 I got my Chilean nationality, so right now I have two nationalities: Spanish and Chilean.
 
-My research interest are various topics in the the Semantic Web, Privacy and Graph Databases.
+My research interest are various topics in the the Semantic Web, Privacy and Graph Databases. I have also been editor of the W3C [SPARQL 1.1 Federation Extension](https://www.w3.org/TR/sparql11-federated-query/)
 
 ## My students
 
