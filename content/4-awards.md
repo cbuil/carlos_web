@@ -10,3 +10,4 @@ title: Awards
  
  - Carlos Buil Aranda, Marcelo Arenas, Óscar CorchoSemantics and Optimization of the SPARQL 1.1 Federation Extension. ESWC (2) 2011: 1-15 **Best Research Paper Award**
  
+ - Federated Query Processing for the Semantic Web, PhD Thesis, 2012. **Best Computer Science PhD Thesis** at the Informatics Department, Universidad Politécnica de Madrid.
