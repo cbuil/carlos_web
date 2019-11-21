@@ -4,11 +4,11 @@ title: Projects
 
 ## Academic Projects
 
- - **Fondecyt Iniciación**: in this project I study how to effectively and effiently transfer part of a RDF database computation to the SPARQL clients. I study how clients can efficiently compute joins, execute joins over compressed data without compromising their performance.
+ - **Fondecyt Iniciación**: (~80,000 USD, 3 years) in this project I study how to effectively and effiently transfer part of a RDF database computation to the SPARQL clients. I study how clients can efficiently compute joins, execute joins over compressed data without compromising their performance.
 
- - **Universidad Santa Maria Internal project**. with this project I tried to understand where is the difficulty for end users for querying SPARQL endpoints. The output was a nmice user interface and an even nicer study from my first student, Hernán Vargas. 
+ - **Universidad Santa Maria Internal project**: (~4,000 USD 1 year) with this project I tried to und2erstand where is the difficulty for end users for querying SPARQL endpoints. The output was a nmice user interface and an even nicer study from my first student, Hernán Vargas. 
 
- - **Fondecyt Postdoctorado**: in this project I tried to put some light over the use of SPARQL endpoints by using the query logs users submitted to these databases.
+ - **Fondecyt Postdoctorado**: (~100,000 USD, 3 years) in this project I tried to put some light over the use of SPARQL endpoints by using the query logs users submitted to these databases.
 
  - **EU Project ADMIRE** (FP7-215024 3.001.662,00 euro ) project. The goals of this project were to easy the end user to access data intensive for data mining. The output was a user toolkit that eased the access to large amounts of data by these users. I have been in charge of the semantic software registry of the Project and of the ontologies for defining the data types of the system's architecture. 
 
