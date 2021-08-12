@@ -18,7 +18,7 @@ title: Publications
 
 ### 2016
  - 	Olaf Hartig, Carlos Buil Aranda Bindings-Restricted Triple Pattern Fragments. OTM Conferences 2016: 762-779 [Preprint pdf file](2016-odbase-brtpf.pdf)
- - 	Olaf Hartig, Carlos Buil ArandaReducing the Network Load of Triple Pattern Fragments by Supporting Bind Joins. International Semantic Web Conference (Posters & Demos) 2016[Preprint pdf file](2016-iswc-poster.pdf)
+ - 	Olaf Hartig, Carlos Buil ArandaReducing the Network Load of Triple Pattern Fragments by Supporting Bind Joins. International Semantic Web Conference (Posters & Demos) 2016 [Preprint pdf file](2016-iswc-poster.pdf)
  - Olaf Hartig, Carlos Buil ArandabrTPF: Bindings-Restricted Triple Pattern Fragments (Extended Preprint). CoRR abs/1608.08148 (2016)
 2015
  - Carlos Buil Aranda, Martín Ugarte, Marcelo Arenas, Michel DumontierA Preliminary Investigation into SPARQL Query Complexity and Federation in Bio2RDF. AMW 2015
