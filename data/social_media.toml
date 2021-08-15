@@ -9,11 +9,11 @@
 [email]
 	source = "images/social_media/email.svg"
 	target = "mailto:cbuil@inf.utfsm.cl"
-	
+
+[google-scholar]
+	source = "images/social_media/google-scholar.svg"
+	target = "https://scholar.google.cl/citations?user=2m8bkeEAAAAJ&hl=en"
+
 [home]
 	source = "images/social_media/home.svg"
 	target = "https://carlosbuil.com"
-
-[telegram]
-	source = "images/social_media/telegram.svg"
-	target = "https://t.me/"
