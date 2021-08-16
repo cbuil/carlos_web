@@ -13,7 +13,3 @@
 [google-scholar]
 	source = "images/social_media/google-scholar.svg"
 	target = "https://scholar.google.cl/citations?user=2m8bkeEAAAAJ&hl=en"
-
-[home]
-	source = "images/social_media/home.svg"
-	target = "https://carlosbuil.com"
