@@ -4,10 +4,7 @@ title: Main
 
 # Carlos Buil-Aranda
 
-Assistant Professor at  [Departamento de Informática](https://www.inf.utfsm.cl) at [Universidad Técnica Federico Santa María](https://www.usm.cl/) and Young Researcher at [Instituto Milenio de Fundamentos de los Datos](https://imfd.cl/).
-
-15+ years of experience in research (~5 of them in industry) mostly working with knowledge graphs. My background focuses mainly in graph data management, including backend optimization, query visualization, data integration using ontologies and data privacy, among other topics.  I have also been editor of the W3C [SPARQL 1.1 Federation Extension](https://www.w3.org/TR/sparql11-federated-query/).
-
+Software Engineer with 15+ years of experience in industry and research. My research focuses on Knowledge Graphs and graph data management, including: backend optimization, query visualization, data integration, and data privacy. As part of my international research I edited  the W3C SPARQL 1.1 Federation Extension. Winner of three international awards and best PhD in Computer Science from Universidad Politécnica de Madrid.
 
 Originally I'm from Spain, and I came to Chile during 2010 to work with Marcelo Arenas during my PhD at [Ontology Engineering Group](http://www.oeg-upm.net/). My PhD supervisor was Óscar Corcho, and I will always be grateful for all the support he gave me, and everything I learnt during that period. By the end of 2018 I got my Chilean nationality, so right now I have two nationalities: Spanish and Chilean.
 
